@@ -17,15 +17,15 @@ export function Hero() {
           </div>
 
           <h1 className="text-balance text-4xl font-medium leading-tight tracking-tight md:text-6xl lg:text-7xl">
-            Find a Top{" "}
+            Find a{" "}
             <span className="text-gradient-sage">Chiropractor</span>{" "}
             Near You
           </h1>
 
           <p className="mx-auto mt-6 max-w-2xl text-balance text-lg text-muted-foreground md:text-xl">
-            Compare ratings, read verified reviews, and book a free consultation
-            with top-rated chiropractors in Turlock, Modesto, Ceres, and the
-            greater Stanislaus County area.
+            Compare ratings, read reviews, and book a free consultation
+            with chiropractors in Turlock, Modesto, Ceres, and the greater
+            Stanislaus County area.
           </p>
 
           <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
