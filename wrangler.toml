@@ -1,0 +1,7 @@
+name = "turlock-chiropractor"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "turlock-chiro-leads"
+database_id = "placeholder"
