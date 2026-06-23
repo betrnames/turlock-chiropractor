@@ -13,7 +13,7 @@ export function Hero() {
         <div className="mx-auto max-w-4xl text-center">
           <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-primary/30 bg-primary/10 px-4 py-1.5 text-sm text-primary">
             <MapPin className="size-3.5" />
-            Turlock, CA — Stanislaus County
+            Turlock, CA — Chiropractor Directory
           </div>
 
           <h1 className="text-balance text-4xl font-medium leading-tight tracking-tight md:text-6xl lg:text-7xl">

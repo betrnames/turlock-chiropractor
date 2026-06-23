@@ -68,13 +68,8 @@ export function Navbar() {
   return (
     <nav className="fixed inset-x-0 top-0 z-50 border-b border-border/60 bg-background/90 backdrop-blur-md">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-5 py-3">
-        <a href="#/" className="flex flex-col leading-none">
-          <span className="font-serif text-lg tracking-tight">
-            Turlock<span className="text-primary">Chiropractor</span>
-          </span>
-          <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-muted-foreground">
-            Directory
-          </span>
+        <a href="#/" className="font-serif text-lg tracking-tight">
+          Turlock<span className="text-primary">Chiropractor</span>
         </a>
 
         <div className="hidden items-center gap-6 text-sm md:flex">
