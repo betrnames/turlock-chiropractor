@@ -66,6 +66,17 @@ export function Footer() {
           </div>
         </div>
       </div>
+      <div className="border-t border-border/40 py-3 text-center">
+        <p className="text-[11px] text-muted-foreground/50">
+          This domain and website may be available for acquisition.{" "}
+          <a
+            href="mailto:contact@turlockchiropractor.com?subject=Inquiry%20about%20TurlockChiropractor.com"
+            className="underline underline-offset-2 transition-colors hover:text-foreground"
+          >
+            Inquire here
+          </a>
+        </p>
+      </div>
     </footer>
   )
 }
