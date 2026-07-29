@@ -91,13 +91,13 @@ function HomePage() {
   }, [])
 
   return (
-    <>
+    <main>
       <Hero />
       <Directory />
       <News />
       <FAQ />
       <LeadForm />
-    </>
+    </main>
   )
 }
 

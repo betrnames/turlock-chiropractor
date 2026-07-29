@@ -31,6 +31,7 @@ export function Footer() {
               <a href="#news" className="block transition hover:text-foreground">News & Trends</a>
               <a href="#faq" className="block transition hover:text-foreground">FAQ</a>
               <a href="#/consultation" className="block transition hover:text-foreground">Free Consultation</a>
+              <a href="/llms.txt" className="block transition hover:text-foreground">llms.txt</a>
             </nav>
           </div>
 
@@ -54,8 +55,10 @@ export function Footer() {
 
         <div className="mt-10 border-t border-border/60 pt-6">
           <p className="text-center text-xs leading-relaxed text-muted-foreground">
-            TurlockChiropractor.com is an independent directory and is not affiliated with or endorsed by any chiropractors listed on this site.
+            TurlockChiropractor.com is an independent directory maintained as a free public resource for Turlock residents seeking chiropractic care.
+            Not affiliated with or endorsed by any chiropractors listed on this site.
             This website is for informational purposes only and is not a substitute for professional medical advice. Results are not guaranteed.
+            Directory last updated: July 2026.
           </p>
           <div className="mt-4 flex flex-col items-center justify-between gap-3 text-xs text-muted-foreground sm:flex-row">
             <p>&copy; {new Date().getFullYear()} TurlockChiropractor.com — All rights reserved.</p>

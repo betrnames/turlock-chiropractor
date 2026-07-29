@@ -1,0 +1,21 @@
+# Turlock Chiropractor
+
+> Local chiropractor directory for Turlock, California — compare ratings, read reviews, and find chiropractic care near you.
+
+## What this is
+A free directory of chiropractors serving Turlock, CA and the surrounding Central Valley area. Lists all local chiropractic clinics with ratings, review counts, phone numbers, addresses, and specialties. Includes a consultation matching tool and chiropractic health articles.
+
+## Key pages
+- https://turlockchiropractor.com/ — full chiropractor directory with ratings and reviews
+- https://turlockchiropractor.com/consultation — free consultation matching tool
+- https://turlockchiropractor.com/quiz — chiropractic needs assessment quiz
+- https://turlockchiropractor.com/article/chiropractic-whole-person-wellness-2026 — wellness article
+- https://turlockchiropractor.com/article/ai-diagnostics-central-valley-chiropractic — AI diagnostics article
+- https://turlockchiropractor.com/article/california-ballot-initiative-chiropractic-coverage — coverage article
+- https://turlockchiropractor.com/article/patient-price-sensitivity-turlock-chiropractic — pricing article
+
+## Location
+Turlock, California (Stanislaus County, Central Valley)
+
+## Contact
+- info@betrnames.com
