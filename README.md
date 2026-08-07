@@ -1,25 +1,37 @@
 # Turlock Chiropractor Directory
 
-A local business directory and lead-generation platform for chiropractors in Turlock, CA.
+Local **chiropractor directory + lead-gen** for Turlock, CA — rank for local search, convert visitors into inquiries.
+
+![Turlock Chiropractor open graph](public/og.png)
 
 ## What it does
 
-A high-performance directory site designed to capture organic search traffic for local chiropractic searches and convert visitors into qualified leads.
+- Directory-style listings (mobile-first cards)  
+- SEO / OG meta for local queries (“chiropractor in Turlock”)  
+- Edge-friendly deploy on Cloudflare Pages + Functions  
+- Lead / API surface via Pages Functions  
 
-- **Directory listings** — Responsive card layout, single-column on mobile
-- - **Edge-rendered** — Cloudflare Pages for sub-50ms TTFB globally
-  - - **API layer** — Cloudflare Pages Functions for server-side logic
-    - - **SEO-optimized** — OG images, social share meta tags, semantic HTML
-     
-      - ## Tech stack
-     
-      - | Layer | Tech |
-      - |-------|------|
-      - | Frontend | TypeScript, Vite |
-      - | Backend | Cloudflare Pages Functions |
-      - | Database | Cloudflare D1 |
-      - | Hosting | Cloudflare Pages |
-     
-      - ## The play
-     
-      - Rank for "chiropractor in Turlock" and related long-tail searches → capture traffic → sell leads or advertising to local practices.
+## Stack
+
+| Layer | Tech |
+|-------|------|
+| Frontend | TypeScript, Vite, React |
+| Backend | Cloudflare Pages Functions |
+| Data | Cloudflare D1 (when configured) |
+| Hosting | Cloudflare Pages (`wrangler.toml`) |
+
+## Quick start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## The play
+
+Organic local intent → qualified lead → practice ad or lead product.
+
+## License
+
+All rights reserved.
